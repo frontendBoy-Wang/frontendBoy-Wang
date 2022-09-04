@@ -1,16 +1,16 @@
-### Hi there 👋
+👨‍🚒 关于我
 
-<!--
-**frontendBoy-Wang/frontendBoy-Wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello ,我是前端少年汪,是一位生活在武汉的web前端开发工程师,目前主要从事 PC端,小程序,移动端等前端相关的工作,目前在小厂担任前端开发工程师
 
-Here are some ideas to get you started:
+●  github:frontendBoy-Wang 
+●  gitee:frontendBoy-Wang  
+●  自我介绍：MyBlog 
+●  微信公众号:前端少年汪 
+●  微信号:frontBoy_wang  (备注:语雀),欢迎一起交流前端技术 
+●  CSDN:前端少年汪 
+●  掘金:前端少年汪 
+●  B站:前端少年汪 
+●  抖音:前端少年汪 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+从明天起，做一个新思维的人 继承，多态，层层封装 从明天起,不再关心内存管理 让每一条数据，自动放到合适的位子上 从明天起，我将为每一个对象 取一个温暖的名字 它们用驼峰命名，优雅，大方 陌生人，我也祝福你哈 愿你不再为系统级bug烦恼 愿你在平台之间肆意游荡 愿你不再关心溢出与异常
