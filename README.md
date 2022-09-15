@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with a job
 - 💬 Ask me about javascript/typescript
 - 📫 email: `1537957527@qq.com`
-- 🆅 WeChat:`frontend_wang`
+- 🆅 WeChat:`frontendBoy_wang`
 ## 👨‍🚒 About me
 
 Hello ,我是前端少年汪,是一位生活在武汉的全栈开发工程师,目前主要从事 PC端,小程序,移动端和golang，python等前后端相关的工作,目前在小厂担任全栈开发工程师
