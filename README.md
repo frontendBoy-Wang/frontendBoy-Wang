@@ -46,7 +46,7 @@ Hello ,我是前端少年汪,是一位生活在武汉的全栈开发工程师,�
 > 陌生人，我也祝福你哈 愿你不再为系统级bug烦恼 <br>
 > 愿你在平台之间肆意游荡 愿你不再关心溢出与异常<br></center>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=ginblog)](https://github.com/frontendBoy-Wang/ginblog)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=frontendBoy-Wang&repo=ginblog)](https://github.com/frontendBoy-Wang/ginblog)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Edu+VIC+WA+NT+Beginner&size=28&width=600&lines=To+see+the+world+as+it+is+and+to+love+it.)](https://github.com/frontendBoy-Wang)
 
 ### 🧰 Tech Stacks
