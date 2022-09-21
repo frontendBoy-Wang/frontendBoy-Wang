@@ -46,7 +46,8 @@ Hello ,我是前端少年汪,是一位生活在武汉的全栈开发工程师,�
 > 陌生人，我也祝福你哈 愿你不再为系统级bug烦恼 <br>
 > 愿你在平台之间肆意游荡 愿你不再关心溢出与异常<br></center>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=frontendBoy-Wang&repo=ginblog)](https://github.com/frontendBoy-Wang/ginblog)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=frontendBoy-Wang&repo=ginblog)](https://github.com/frontendBoy-Wang/ginblog) 
+[![Blog Card](https://github-readme-stats.vercel.app/api/pin/?username=frontendBoy-Wang&repo=frontendBoy-Wang.github.io)](https://github.com/frontendBoy-Wang/frontendBoy-Wang.github.io)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Edu+VIC+WA+NT+Beginner&size=28&width=600&lines=To+see+the+world+as+it+is+and+to+love+it.)](https://github.com/frontendBoy-Wang)
 
 ### 🧰 Tech Stacks
@@ -58,8 +59,7 @@ Hello ,我是前端少年汪,是一位生活在武汉的全栈开发工程师,�
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40" />
-
-### 💻 Stats
+### 💻 Stats 
 
 [![frontendBoy-Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=frontendBoy-Wang&show_icons=true&theme=radical)](https://github.com/frontendBoy-Wang)
 
