@@ -34,7 +34,7 @@ Hello ,我是前端少年汪,是一位生活在武汉的全栈开发工程师,�
       <img src="https://github-readme-stats.vercel.app/api?username=frontendBoy-Wang&show_icons=true&theme=radical" alt="zhangshichun's GitHub stats" style="zoom:100%;" align="left"/>
     </td>
     <td>
-        <img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=3570847174897447&hide_border=true" alt="掘金账号：前端少年汪" style="zoom:100%;" align="left"/>
+        <img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=3570847174897447&hide_border=true&theme=radical" alt="掘金账号：前端少年汪" style="zoom:100%;" align="left"/>
     </td>
   </tr>
 </table>
