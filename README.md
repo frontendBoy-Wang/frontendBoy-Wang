@@ -28,6 +28,17 @@ Hello ,我是前端少年汪,是一位生活在武汉的全栈开发工程师,�
 > 陌生人，我也祝福你哈 愿你不再为系统级bug烦恼 <br>
 > 愿你在平台之间肆意游荡 愿你不再关心溢出与异常<br></center>
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=frontendBoy-Wang&show_icons=true&theme=radical" alt="zhangshichun's GitHub stats" style="zoom:100%;" align="left"/>
+    </td>
+    <td>
+        <img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=3570847174897447&hide_border=true" alt="掘金账号：前端少年汪" style="zoom:100%;" align="left"/>
+    </td>
+  </tr>
+</table>
+
 
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=frontendBoy-Wang&repo=ginblog)](https://github.com/frontendBoy-Wang/ginblog) 
 [![Blog Card](https://github-readme-stats.vercel.app/api/pin/?username=frontendBoy-Wang&repo=frontendBoy-Wang.github.io)](https://github.com/frontendBoy-Wang/frontendBoy-Wang.github.io) 
